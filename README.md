@@ -42,3 +42,7 @@ https://yongdanielliang.github.io/animation/web/24Tree.html
 
 http://asmdebugger.com
 
+http://www.c-jump.com/CIS77/ASM/Instructions/index.html
+
+
+https://godbolt.org[Compiler Explorer]
