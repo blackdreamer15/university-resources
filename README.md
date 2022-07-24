@@ -14,3 +14,11 @@ Example: DSA Projects, MicroProcessors, Arduino Projects , etc.
 ## <a name="N"> </a>N
 ## Numerical Analysis
 Info on Significant Numbers : https://ccnmtl.columbia.edu/projects/mmt/frontiers/web/chapter_5/6665.html
+
+
+
+
+
+Linear Electronics 
+
+[Latex Tutorial in 30 Mins](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
