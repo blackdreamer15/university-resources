@@ -30,7 +30,7 @@ Info on Significant Numbers : https://ccnmtl.columbia.edu/projects/mmt/frontiers
 Linear Electronics 
 
 [Latex Tutorial in 30 Mins](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-
+[Operational Amplifiers Sample Questions](https://edurev.in/course/quiz/attempt/-1_Test-DC-Imperfections-in-Operational-Amplifiers/1807e9d7-9b47-4da2-ac41-2b61eeaa2c7b)
 
 https://www.bigocheatsheet.com
 [BCD to Excess-3 conversion - Javatpoint](https://www.javatpoint.com/conversion-of-bcd-to-excess-3-code-in-digital-electronics)
