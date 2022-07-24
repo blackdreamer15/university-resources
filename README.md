@@ -60,3 +60,7 @@ https://www.cpp.edu/~ftang/courses/CS241/notes/sorting.htm
 
 
 https://www.techinfoin.com/install-logisim-on-mac/
+
+
+[ASCII Conversion Chart
+](https://web.alfredstate.edu/faculty/weimandn/miscellaneous/ascii/ascii_index.html)
