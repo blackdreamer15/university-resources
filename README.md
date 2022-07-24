@@ -22,3 +22,11 @@ Info on Significant Numbers : https://ccnmtl.columbia.edu/projects/mmt/frontiers
 Linear Electronics 
 
 [Latex Tutorial in 30 Mins](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+
+https://www.bigocheatsheet.com
+[BCD to Excess-3 conversion - Javatpoint](https://www.javatpoint.com/conversion-of-bcd-to-excess-3-code-in-digital-electronics)
+
+https://www.youtube.com/watch?v=HcLYoCmWOjI&list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo
+
+https://prantoamt.wordpress.com/2018/09/09/16-bit-single-cycle-processor-design/
