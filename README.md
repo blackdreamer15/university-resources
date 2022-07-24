@@ -11,6 +11,14 @@ Example: DSA Projects, MicroProcessors, Arduino Projects , etc.
 ## Applied Electricity
 -
 
+
+
+## <a name="M"> </a>N
+## MicroProcessors
+[Logisim For Mac](https://www.techinfoin.com/install-logisim-on-mac/)
+
+
+
 ## <a name="N"> </a>N
 ## Numerical Analysis
 Info on Significant Numbers : https://ccnmtl.columbia.edu/projects/mmt/frontiers/web/chapter_5/6665.html
@@ -31,9 +39,10 @@ https://www.youtube.com/watch?v=HcLYoCmWOjI&list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93e
 
 https://prantoamt.wordpress.com/2018/09/09/16-bit-single-cycle-processor-design/
 
-https://downloadly.ir/software/utility/texpad/
+[TexPad For MacOS](https://downloadly.ir/software/utility/texpad/)
 
-http://falstad.com/circuit/
+
+[Circuit Animation Playground](http://falstad.com/circuit/)
 
 https://web.alfredstate.edu/faculty/weimandn/miscellaneous/ascii/ascii_index.html
 
@@ -59,7 +68,6 @@ https://www.cpp.edu/~ftang/courses/CS241/notes/sorting.htm
 
 
 
-https://www.techinfoin.com/install-logisim-on-mac/
 
 
 [ASCII Conversion Chart
