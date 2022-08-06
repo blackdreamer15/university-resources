@@ -17,7 +17,7 @@ Example: DSA Projects, MicroProcessors, Arduino Projects , etc.
 ## MicroProcessors
 [Logisim For Mac](https://www.techinfoin.com/install-logisim-on-mac/)
 
-
+[https://www.youtube.com/watch?v=FOjwUJHfO5g](CENG)
 
 ## <a name="N"> </a>N
 ## Numerical Analysis
